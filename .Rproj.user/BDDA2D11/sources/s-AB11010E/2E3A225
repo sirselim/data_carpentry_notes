@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "2E3A225",
-    "lastKnownWriteTime" : 1561504838,
-    "last_content_update" : 1561504838045,
+    "lastKnownWriteTime" : 1561506534,
+    "last_content_update" : 1561506534580,
     "path" : "/data/training/data-carpentry/rsql/dc_r_sql_code.R",
     "project_path" : "dc_r_sql_code.R",
     "properties" : {
-        "cursorPosition" : "16,67",
-        "scrollLine" : "0",
+        "cursorPosition" : "157,37",
+        "scrollLine" : "123",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
