@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1742191209",
+    "hash" : "0",
     "id" : "B8788AA8",
-    "lastKnownWriteTime" : 1561508449,
-    "last_content_update" : 1561508449237,
+    "lastKnownWriteTime" : 1561511277,
+    "last_content_update" : 1561511277373,
     "path" : "/data/training/data-carpentry/rsql/README.md",
     "project_path" : "README.md",
     "properties" : {
-        "cursorPosition" : "8,3",
+        "cursorPosition" : "20,5",
         "scrollLine" : "0"
     },
     "read_only" : false,
