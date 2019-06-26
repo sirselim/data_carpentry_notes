@@ -26,6 +26,8 @@ download.file(url = "https://github.com/sirselim/data_carpentry_notes/blob/maste
   - Esquisse (R package): https://github.com/dreamRs/esquisse
     - a plugin for RStudio that allows you create ggplot2 plots interactively.
   - R for Data Science [book]: https://r4ds.had.co.nz/
+  - datapasta: https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html
+    - pasting your tables into various R formats
 
 -----
 
